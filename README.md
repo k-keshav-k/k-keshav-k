@@ -2,8 +2,6 @@
 
 # Hi There! 👋
 
-### Wow!...
-
 ---
 
 <h3>🛠️ Languages & Tools</h3>
